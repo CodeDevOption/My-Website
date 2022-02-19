@@ -1,6 +1,4 @@
-Thanks for downloading this template!
-
-Template Name: Arsha
-Template URL: https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Template Name: Lahiru Sadaruwan
+Template URL: http://webapplication.rf.gd/
+Author: SLProgrammer
+License: http://webapplication.rf.gd/
